@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolZoneTests/SchoolTest.m"
+            timestampString = "459747143.515272"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "-testCount"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SchoolTest testCount]"
+                  moduleName = "SchoolZoneTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn/Documents/Working/XcodeWorkspace/0.Objc.baby.step/SchoolZone/SchoolZoneTests/SchoolTest.m"
+                  timestampString = "459747262.768923"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SchoolTest testCount]"
+                  moduleName = "SchoolZoneTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn/Documents/Working/XcodeWorkspace/0.Objc.baby.step/SchoolZone/SchoolZoneTests/SchoolTest.m"
+                  timestampString = "459747262.769345"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "578">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SchoolTest testCount]"
+                  moduleName = "SchoolZoneTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn/Documents/Working/XcodeWorkspace/0.Objc.baby.step/SchoolZone/SchoolZoneTests/SchoolTest.m"
+                  timestampString = "459747262.769838"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "602">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SchoolTest testCount]"
+                  moduleName = "SchoolZoneTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn/Documents/Working/XcodeWorkspace/0.Objc.baby.step/SchoolZone/SchoolZoneTests/SchoolTest.m"
+                  timestampString = "459747262.770276"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "724">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
