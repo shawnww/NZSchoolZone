@@ -1,3 +1,5 @@
 # NZSchoolZone
 
-not polished yet, just write in a rush to upload to apple
+Hi, David
+
+code not polished yet, it's a little bit rush to write and upload to apple. :-D
